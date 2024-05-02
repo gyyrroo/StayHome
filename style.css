@@ -58,6 +58,25 @@
     text-decoration: none;
     color: rgb(13, 0, 255);
     padding: 10px 20px;
-    border: solid 1px black;
+    border: solid 1px rgb(0, 0, 255);
     border-radius: 30px;
 }
+
+.hero-content{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.content-1{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.content-web{
+    margin-top: 100px;
+}
+
