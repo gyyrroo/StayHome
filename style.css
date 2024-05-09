@@ -46,6 +46,10 @@
     margin-top: 20px;
 }
 
+.mt-60{
+    margin-top: 60px;
+}
+
 .btn-1{
     text-decoration: none;
     color: white;
@@ -78,5 +82,50 @@
 
 .content-web{
     margin-top: 100px;
+    margin-bottom: 100px;
 }
 
+.content-2{
+    justify-content: center;
+}
+
+.heading{
+    justify-content: center;
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 0.02em;
+    text-align: center;
+
+}
+
+.wadahcard{
+    display: flex;
+    justify-content: center;
+    gap: 50px;
+}
+
+.card{
+    width: Fixed (239px)px;
+    height: Fixed (324px)px;
+    top: 1386px;
+    left: 296px;
+    padding: 16px 0px 0px 0px;
+    gap: 10px;
+    border-radius: 16px;
+    opacity: 0px;
+    box-shadow: 0px 4px 8px 0px #00000040;
+    padding: 16px 16px 16px 16px;
+    justify-content: center;
+    text-align: center;
+        
+}
+
+.isicard{
+    text-align: center;
+}
+
+.judulcard{
+    text-align: center;
+}
